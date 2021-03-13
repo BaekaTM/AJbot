@@ -1,0 +1,16 @@
+{
+  "name": "ajbot",
+  "version": "1.0.0",
+  "description": "Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AJbot",
+  "license": "MIT",
+  "token": "NzI3NTc0NTUzNTc2MDc5Mzcy.Xvt0mw.XWEyN4faJwkQP-gg64dXW54Zr_8",
+  "prefix": "aj!",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
